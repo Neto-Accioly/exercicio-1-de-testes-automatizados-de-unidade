@@ -1,0 +1,25 @@
+# Dependências
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Cobertura de testes (caso use ferramentas como nyc ou c8)
+coverage/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de ambiente
+.env
+.env.local
