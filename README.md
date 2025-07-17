@@ -18,6 +18,7 @@ O foco deste exercício é a **automação de testes unitários** utilizando **J
 
 ## Estrutura do Projeto
 
+```
 exercicioDeTestesAutomatizadosDeUnidade2/
 ├── node_modules/ # Dependências do projeto
 ├── src/
@@ -28,7 +29,7 @@ exercicioDeTestesAutomatizadosDeUnidade2/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 
 ---
 
