@@ -19,7 +19,7 @@ O foco deste exercício é a **automação de testes unitários** utilizando **J
 ## Estrutura do Projeto
 
 ```
-exercicioDeTestesAutomatizadosDeUnidade2/
+exercicio-1-de-testes-automatizados-de-unidade/
 ├── node_modules/ # Dependências do projeto
 ├── src/
 │ └── comunicacao.js # Função que retorna dados de uma "forma de comunição" com base no animal informado
