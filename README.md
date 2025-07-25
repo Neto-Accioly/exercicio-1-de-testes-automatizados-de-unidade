@@ -22,7 +22,7 @@ O foco deste exercício é a **automação de testes unitários** utilizando **J
 exercicioDeTestesAutomatizadosDeUnidade2/
 ├── node_modules/ # Dependências do projeto
 ├── src/
-│ └── pesquisar.js # Função que retorna dados de uma "pessoa" com base no CPF
+│ └── comunicacao.js # Função que retorna dados de uma "forma de comunição" com base no animal informado
 ├── test/
 │ └── pesquisar.test.js # Testes automatizados da função
 ├── .gitignore
